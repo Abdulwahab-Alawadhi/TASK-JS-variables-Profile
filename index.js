@@ -43,18 +43,22 @@ let stars = 0;
 
 function incrementBy1() {
   // Increment stars by 1 👇🏻
-  stars += 1;
+  stars = stars + 1;
+  //stars+=1
 }
 function decrementBy1() {
   // decrement stars by 1 👇🏻
-  stars -= 1;
+  stars = stars - 1;
+  //stars-=1
 }
 
 function incrementBy2() {
   // Increment stars by 2 👇🏻
-  stars += 2;
+  stars = stars + 2;
+  //stars+=2
 }
 function decrementBy2() {
   // decrement stars by 2 👇🏻
-  stars -= 2;
+  stars = stars - 2;
+  //stars-=2;
 }
