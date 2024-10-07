@@ -28,7 +28,7 @@ const image = "https://picsum.photos/200/301";
  * Uncomment the following lines and start interpolating.
  * You can uncomment a line by removing the // at the start
  */
-let currYear = 2023;
+let currYear = 2024;
 let yourAge = currYear - yearOfBirth;
 const fullNameString = `My name is ${fullName}`;
 const yearOfBirthString = `My Year of birth is ${yourAge}`;
