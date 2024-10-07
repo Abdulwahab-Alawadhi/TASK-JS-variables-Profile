@@ -57,6 +57,7 @@ function incrementBy2() {
   stars = stars + 2;
   //stars+=2
 }
+//aaaa
 function decrementBy2() {
   // decrement stars by 2 👇🏻
   stars = stars - 2;
